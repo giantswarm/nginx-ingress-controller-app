@@ -7,6 +7,10 @@ and this project's packages adheres to [Semantic Versioning](http://semver.org/s
 
 ## [Unreleased]
 
+### Changed
+
+- Remove unused prometheus annotations.
+
 ## [1.10.0] - 2020-10-07
 
 ### Changed
