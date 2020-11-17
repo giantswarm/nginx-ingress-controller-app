@@ -10,6 +10,7 @@ and this project's packages adheres to [Semantic Versioning](http://semver.org/s
 ### Added
 
 - Add ability to extend `nginx-ingress-controller`with specific values from appcatalog. 
+- Push `nginx-ingress-controller` chart into control-plane application catalog.
 
 ## [1.10.0] - 2020-10-07
 
